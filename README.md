@@ -29,11 +29,11 @@ Brien Boise 	    USA           Choco Coated Almonds	$6,706 	    459             
 Husein Augar     	USA	          Almond Choco	        $959 	      147
 
 Performed Analysis using below skills:
-Functions Like Sum, Sumifs,Averageifs, etc.
-Retrieve data from one table to other using Vlookup,Xloopup,
-Calculation Of Maximum, Minimum, Total, Average Using Formula
-Pivot Table & Pivot Chart
-Calculated Fields, Measures
-Slicers
-Conditional Formating
-Data Validation
+1.Functions Like Sum, Sumifs,Averageifs,
+2.Retrieve data from one table to other using Vlookup,Xloopup,
+3.Calculation Of Maximum, Minimum, Total, Average Using Formula
+4.Pivot Table & Pivot Chart
+5.Calculated Fields, Measures
+6.Slicers
+7.Conditional Formating
+8.Data Validation
