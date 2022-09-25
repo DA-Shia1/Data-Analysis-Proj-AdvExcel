@@ -20,13 +20,7 @@ In this repository Data Analysis and Visualisation is done on the Product data o
 9.	Dynamic country-level Sales Report
 10.	Which products to discontinue?
 
-The file contains the data for different chocolate product sold in different countries. For each product, data is differentiated on the basis of country, amount, units sold, and sales person. Here are the first few rows:
-
-Sales Person	    Geography	    Product	              Amount	    Units                                                     Product	        Cost per unit
-
-Ram Mahesh      	New Zealand 	70% Dark Bites	      $1,624 	    114                                                       Milk Bars	      $9.33
-Brien Boise 	    USA           Choco Coated Almonds	$6,706 	    459                                                       50% Dark Bites	$11.70                          
-Husein Augar     	USA	          Almond Choco	        $959 	      147
+The file contains the data for different chocolate product sold in different countries. For each product, data is differentiated on the basis of country, amount, units sold, and sales person. 
 
 Performed Analysis using below skills:
 1.Functions Like Sum, Sumifs,Averageifs,
